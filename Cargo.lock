@@ -1071,8 +1071,7 @@ dependencies = [
 [[package]]
 name = "openssl-probe"
 version = "0.1.4"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "28988d872ab76095a6e6ac88d99b54fd267702734fd7ffe610ca27f533ddb95a"
+source = "git+https://github.com/jclulow/openssl-probe?branch=illumos#8ef56549158fe8401393b0303c5e1419d623dbb9"
 
 [[package]]
 name = "openssl-src"
