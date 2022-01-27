@@ -40,6 +40,3 @@ dirs-next = "2.0.0"
 aws-config = "0.4.0"
 aws-types = "0.4.0"
 aws-sdk-ec2 = "0.4.0"
-
-[patch.crates-io]
-openssl-probe = { git = "https://github.com/jclulow/openssl-probe", branch = "illumos" }
